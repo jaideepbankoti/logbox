@@ -1,0 +1,20 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>{{ page.title}}</title>
+	<!--<link rel="stylesheet" href="/assets/css/styles.css">-->
+</head>
+<body>
+	{% include navigation.html %}
+	{% include header.html %}
+    <main id="content" class="main-content" role="main">
+      {{content}}
+    </main>
+    {% if page.title == "Hey There!" %}
+    <div align=center>
+    <img src="/assets/img/JDprofr.png" alt="JD" width="150px">
+    </div>
+    {% endif %}
+    {% include footer.html %}
+</body>
+</html>
