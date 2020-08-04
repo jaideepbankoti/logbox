@@ -668,7 +668,7 @@ a {
     margin-top: 0; }
   @media screen and (min-width: 64em) {
     .main-content {
-      max-width: 60rem;
+      max-width: 80rem;
       padding: 2rem 6rem;
       margin: 0 auto;
       font-size: 1.1rem; } }
@@ -833,5 +833,23 @@ a {
   line-height: inherit;
   white-space: nowrap;
 
+}
+
+
+.post-area {
+  padding: 0px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  border-bottom: 1px dotted #ddd;
+}
+
+.post-area a:link, .post-area a:visited {
+  font-size: 30px;
+  color: #333;
+}
+
+.post-area a:hover {
+  color: #0D0017;
 }
 
