@@ -31,11 +31,17 @@ li a:hover {
 <body>
 <ul>
     <img src="https://jaideepbankoti.github.io/logbox/assets/img/logbox2.png" alt="" width="70px">
-</a>
-    <li><a class="active" href="{{site.navurl}}/about.html">About</a></li>
-    <li><a class="active" href="{{site.navurl}}/Watch">Watch</a></li>
-    <li><a class="active" href="{{site.navurl}}/blog.html">Blogs</a></li>
-    <li><a class="active" href="{{site.navurl}}/index.html">Home</a></li>
+{% if page.is_post %}
+    <li><a class="active" href="{{site.baseurl}}/about.html">About</a></li>
+    <li><a class="active" href="{{site.baseurl}}/Watch">Watch</a></li>
+    <li><a class="active" href="{{site.baseurl}}/blog.html">Blogs</a></li>
+    <li><a class="active" href="{{site.baseurl}}/index.html">Home</a></li>
+{% else %}
+		<li><a class="active" href="/about.html">About</a></li>
+    <li><a class="active" href="/Watch">Watch</a></li>
+    <li><a class="active" href="/blog.html">Blogs</a></li>
+    <li><a class="active" href="/index.html">Home</a></li>
+{% endif %}
 </ul>
 
 </body>

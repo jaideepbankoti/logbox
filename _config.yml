@@ -22,7 +22,6 @@ title: LOGBOX
 email: jaideep.b1995@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An archive for all my blogs, posts and works. Stitching them all together in one place.
-navurl: "" # for navigation
 baseurl: "logbox" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -39,6 +38,14 @@ sass:
 header_pages:
   - index.html
   - about.md
+  
+defaults:
+-
+  scope:
+    path: ""
+    type: posts
+  values:
+    is_post: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
