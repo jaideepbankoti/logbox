@@ -38,14 +38,7 @@ sass:
 header_pages:
   - index.html
   - about.md
-  
-defaults:
--
-  scope:
-    path: ""
-    type: posts
-  values:
-    is_post: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
