@@ -22,7 +22,7 @@ This is a kind of art form in which the artist visualizes the scene( which is mo
 <h3>
 Perspective is a drawing technique widely used by artists, architects and many others to draw realistic three dimensional drawings. Moreover, it is also used to create some mind boggling optical illusions. The same set of images perfectly aligned in a diminishing perspective can create a sense of depth.
 </h3>
-<div align=center><img src="https://jaideepbankoti.github.io/logbox/assets/img/4.jpg" alt="" width="700px"></div>
+<div align=center><img src="https://jaideepbankoti.github.io/logbox/assets/img/4.png" alt="" width="700px"></div>
 <h2>4. Double Exposure</h2>
 <h3>
 This art form is quite popular and finds its use in photos by superimposing a second scenary on the main subject. There are many forms of double exposure out there. It finds its application in photography, sketches and designs.
