@@ -7,7 +7,7 @@ description: captivating the shrines
 <h3>
 Jageshwar Dham is one of the many famous temples, residing in the state Uttarakhand ( Land of the God ). It is on the hill side of Jageshwar, about 130 kilometers from my residence (Haldwani).
 </h3>
-This shot was taken from a Nikon D5300 at: | f/5.6 | 1/125s | ISO-400.
+| This shot was taken from a Nikon D5300 at | f/5.6 | 1/125s | ISO-400 |
 <h3>
 The grounds were wet after some rainfall and it was evening, so it was a perfect moment for me to capture the golden tinge of the setting sun on the shrine. There were many shrines of different heights, but I chose these two because they lay in perfect alignment with the perspective. The shrines were well carved out with discreet lines and designs.
 
