@@ -3,7 +3,7 @@ title: Jageshwar Dham
 layout: post
 description: captivating the shrines
 ---
-<div align=center><img src="https://jaideepbankoti.github.io/logbox/assets/img/jageshwar_dham.jpg" alt="Jageshwar temple" width="100rem"></div>
+<div align=center><img src="https://jaideepbankoti.github.io/logbox/assets/img/jageshwar_dham.jpg" alt="Jageshwar temple" width="700px"></div>
 <h3>
 Jageshwar Dham is one of the many famous temples, residing in the state Uttarakhand ( Land of the God ). It is on the hill side of Jageshwar, about 130 kilometers from my residence (Haldwani).
 </h3>
